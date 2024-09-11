@@ -1,5 +1,5 @@
 {
-    "name": "Prexzy-Bug-V3",
+    "name": "KAYA BOT BUG",
     "version": "8.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Prexzy",
+    "author": "KAYA",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.7",
