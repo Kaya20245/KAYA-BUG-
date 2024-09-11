@@ -1,29 +1,29 @@
-<h1 align="center"> PREXZY BUG V3 </h1>
+<h1 align="center"> KAYA BUG  </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-V3;WHATSAPP+BUG+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+06.09.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;KAYA-BUG;WHATSAPP+BUG+BOT;CREATED+BY+KAYA+SASAKI;RELEASED+06.09.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
-    <img alt="prexzy" height="300" src="https://telegra.ph/file/c30dd787cb8066b19a694.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+  <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k">
+    <img alt="KAYA" height="300" src="https://telegra.ph/file/c30dd787cb8066b19a694.jpg">
+    <h1 align="center">KAYA-BUG-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2347063956321"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+243823661981"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
-PREXZY BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+KAYA BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
+If you clone my repo or use as base bot, dont forget to give credits. KAYA
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Prexzybooster/PREXZY-BUG-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Kaya20245/KAYA-BUG-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -90,12 +90,12 @@ If you see any question while upgrading with this options with Y or n for defaul
 ### REPORT ISSUES
 
 
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please KAYA BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to KAYA BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
@@ -106,10 +106,10 @@ Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features,
 
 ## License
 
-The WhatsApp Bot PREXZY BUG V3 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot KAYA BUG V3 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--PRECIOUS AYOMIDE
+-KAYA SASAKI
