@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347063956321"
-global.ownername = "Precious Ayomide👑"
+global.ownernomer = "243823661981"
+global.ownername = "KAYA SASAKI"
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '2347063956321'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
-global.botname = '𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻3' //name of the bot
+global.ownernumber = '243823661981'  //creator number
+global.ownername = 'KAYA SASAKI' //owner name
+global.botname = 'KAYA BUG' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = '👑Prexzy\n\nContact: +2347063956321'
+global.packname = 'Sticker KA YA
+global.author = 'KAYA\n\nContact: +243823661981'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "PREXZYVILLA."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -51,10 +51,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'ᴅᴏɴᴇ ᴀsᴀᴘ!',
-    prem: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 𝖕𝖗𝖊𝖒𝖎𝖚𝖒 𝖚𝖘𝖊𝖗 𝖔𝖓𝖑𝖞',
-    admin: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 𝖆𝖉𝖒𝖎𝖓 𝖔𝖓𝖑𝖞',
-    botAdmin: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖔𝖓𝖑𝖞 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖜𝖍𝖊𝖓 𝖙𝖍𝖊 𝖇𝖔𝖙 𝖎𝖘 𝖆 𝖌𝖗𝖔𝖚𝖕 𝖆𝖉𝖒𝖎𝖓 ',
-    owner: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 𝖔𝖜𝖓𝖊𝖗 𝖔𝖓𝖑𝖞',
+    prem: 'KAYA PREMIUM',
+    admin: 'KAYA COMMANDE ADMIN',
+    botAdmin: 'KAYA COMMANDE GROUPE',
+    owner: 'Seulkayapeuxutiliserlacommande,
     group: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖎𝖘 𝖔𝖓𝖑𝖞 𝖋𝖔𝖗 𝖌𝖗𝖔𝖚𝖕𝖘',
     private: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖎𝖘 𝖔𝖓𝖑𝖞 𝖋𝖔𝖗 𝖕𝖗𝖎𝖛𝖆𝖙𝖊 𝖈𝖍𝖆𝖙𝖘',
     wait: 'ᴘʀᴏᴄᴇssɪɴɢ ',    
