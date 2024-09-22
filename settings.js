@@ -13,7 +13,7 @@ global.ownername = 'KAYA SASAKI' //owner name
 global.botname = 'KAYA BUG' //name of the bot
 
 //sticker details
-global.packname = 'Sticker KA YA
+global.packname = 'KAYA SASAKI'
 global.author = 'KAYA\n\nContact: +243823661981'
 
 //console view/theme
@@ -54,7 +54,7 @@ global.mess = {
     prem: 'KAYA PREMIUM',
     admin: 'KAYA COMMANDE ADMIN',
     botAdmin: 'KAYA COMMANDE GROUPE',
-    owner: 'Seulkayapeuxutiliserlacommande,
+    owner:  'KAYA owner',
     group: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖎𝖘 𝖔𝖓𝖑𝖞 𝖋𝖔𝖗 𝖌𝖗𝖔𝖚𝖕𝖘',
     private: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖎𝖘 𝖔𝖓𝖑𝖞 𝖋𝖔𝖗 𝖕𝖗𝖎𝖛𝖆𝖙𝖊 𝖈𝖍𝖆𝖙𝖘',
     wait: 'ᴘʀᴏᴄᴇssɪɴɢ ',    
